@@ -1,5 +1,7 @@
 ### Hi All! 👋
 
+My name is Gustavo Abel, and I'm 22 years old React Native Developer, currently doing mobile apps development at [TOTVS](https://www.totvs.com/)! 📱
+
 ### Software Engineer [@TOTVS](https://www.totvs.com/) / React Native developer
 
 ⤷ Exploring the world of React Native as a Software Engineer, Learning from Open Source and always looking to improve my skills.
